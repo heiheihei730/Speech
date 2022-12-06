@@ -39,4 +39,6 @@ First speech research, have fun~
 
 ### 2.1 语音数据库
 ### 2.2 SUPERB Benchmark
+代码：[SUPERB.ipynb](SUPERB.ipynb)
+### 2.3 SUPERB SG
 ## 3. 语音技术基础
